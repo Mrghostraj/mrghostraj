@@ -6,9 +6,6 @@ I'm a **final-year B.Tech student in Metallurgical & Materials Engineering at NI
 
 I enjoy building practical, data-driven solutions and exploring how AI can solve real-world problems.
 
-**But** GitHub Markdown mein ASCII diagram mobile par kabhi-kabhi awkward ho sakta hai.
-
-Isliye ek aur genuinely creative approach hai:
 
 ### ⚡ "What I Work With"
 
