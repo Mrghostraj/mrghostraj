@@ -12,33 +12,6 @@ Isliye ek aur genuinely creative approach hai:
 
 ### ⚡ "What I Work With"
 
-```markdown
-## ⚡ What I Work With
-
-| 🧠 **Think** | 🔨 **Build** | 🚀 **Deploy** |
-|:---:|:---:|:---:|
-| Statistics | Python | Docker |
-| Probability | Scikit-learn | AWS |
-| ML | TensorFlow | Vercel |
-| Deep Learning | PyTorch | Render |
-| Computer Vision | OpenCV | Postman |
-| GenAI | LangChain | GitHub |
-
-### 🔬 AI / ML
-`Scikit-learn` · `XGBoost` · `TensorFlow` · `PyTorch`
-
-### 👁️ Vision
-`OpenCV` · `YOLO` · `Ultralytics` · `VGG16` · `ResNet50`
-
-### ✨ GenAI
-`LLMs` · `RAG` · `LangChain` · `Ollama` · `Hugging Face`
-
-### 📊 Data
-`Pandas` · `NumPy` · `SQL` · `Matplotlib` · `Seaborn` · `Power BI`
-
-## 🛠️ Tech Stack
-```
-
 | Category | Technologies |
 |---|---|
 | **Languages** | Python · C++ · C · SQL |
