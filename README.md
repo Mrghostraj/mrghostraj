@@ -8,6 +8,44 @@ I enjoy building practical, data-driven solutions and exploring how AI can solve
 
 ## 🛠️ Tech Stack
 
+**💻 Languages**  
+`Python` `C++` `C` `SQL`
+
+**📊 Machine Learning**  
+`Scikit-learn` `XGBoost` `Regression` `Classification` `Clustering`
+
+**🧠 Deep Learning**  
+`TensorFlow` `Keras` `PyTorch` `CNN` `RNN` `LSTM` `Transformers`
+
+**👁️ Computer Vision**  
+`OpenCV` `YOLO` `Ultralytics` `VGG16` `ResNet50`
+
+**✨ Generative AI**  
+`LLMs` `RAG` `LangChain` `Ollama` `Hugging Face` `Embeddings`
+
+**📈 Data Science**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Excel`
+
+**⚙️ Tools & Platforms**  
+`Git` `GitHub` `Docker` `AWS` `VS Code` `Colab` `Kaggle` `Postman` `Vercel` `Render`
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · C++ · C · SQL
+
+**AI/ML:** Scikit-learn · XGBoost · TensorFlow · Keras · PyTorch
+
+**Computer Vision:** OpenCV · YOLO · Ultralytics · VGG16 · ResNet50
+
+**GenAI:** LLMs · RAG · LangChain · Ollama · Hugging Face
+
+**Data:** Pandas · NumPy · Matplotlib · Seaborn · Power BI · Excel
+
+**Development:** Git · GitHub · Docker · AWS · VS Code · Colab · Kaggle · Postman · Vercel · Render
+
+
+## 🛠️ Tech Stack
+
 | Category | Technologies |
 |---|---|
 | **Languages** | Python · C++ · C · SQL |
