@@ -43,13 +43,19 @@ I enjoy building practical, data-driven solutions and exploring how AI can solve
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
 </p>
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ### 📐 Mathematics & Statistics
@@ -65,6 +71,20 @@ I enjoy building practical, data-driven solutions and exploring how AI can solve
   <img src="https://img.shields.io/badge/Calculus-16A085?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Optimization-7D3C98?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Regression-FF6F00?style=for-the-badge"/>
+</p>
+
+### 🧩 DSA & Competitive Programming
+
+<p>
+  <a href="https://leetcode.com/u/randhir_23/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/randhir_23">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/RandhirKumar01">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
 </p>
 
 ## 🌐 Connect With Me
