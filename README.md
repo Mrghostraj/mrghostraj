@@ -29,6 +29,7 @@ I enjoy building practical, data-driven solutions and exploring how AI can solve
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
@@ -49,6 +50,21 @@ I enjoy building practical, data-driven solutions and exploring how AI can solve
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### 📐 Mathematics & Statistics
+
+<p>
+  <img src="https://img.shields.io/badge/Descriptive%20Statistics-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Probability-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistical%20Inference-2E86C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Correlation%20%26%20Covariance-C0392B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Probability%20Distributions-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linear%20Algebra-F39C12?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Calculus-16A085?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Optimization-7D3C98?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regression-FF6F00?style=for-the-badge"/>
 </p>
 
 ## 🌐 Connect With Me
