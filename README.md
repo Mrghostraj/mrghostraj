@@ -6,45 +6,38 @@ I'm a **final-year B.Tech student in Metallurgical & Materials Engineering at NI
 
 I enjoy building practical, data-driven solutions and exploring how AI can solve real-world problems.
 
-## 🛠️ Tech Stack
+**But** GitHub Markdown mein ASCII diagram mobile par kabhi-kabhi awkward ho sakta hai.
 
-**💻 Languages**  
-`Python` `C++` `C` `SQL`
+Isliye ek aur genuinely creative approach hai:
 
-**📊 Machine Learning**  
-`Scikit-learn` `XGBoost` `Regression` `Classification` `Clustering`
+### ⚡ "What I Work With"
 
-**🧠 Deep Learning**  
-`TensorFlow` `Keras` `PyTorch` `CNN` `RNN` `LSTM` `Transformers`
+```markdown
+## ⚡ What I Work With
 
-**👁️ Computer Vision**  
-`OpenCV` `YOLO` `Ultralytics` `VGG16` `ResNet50`
+| 🧠 **Think** | 🔨 **Build** | 🚀 **Deploy** |
+|:---:|:---:|:---:|
+| Statistics | Python | Docker |
+| Probability | Scikit-learn | AWS |
+| ML | TensorFlow | Vercel |
+| Deep Learning | PyTorch | Render |
+| Computer Vision | OpenCV | Postman |
+| GenAI | LangChain | GitHub |
 
-**✨ Generative AI**  
-`LLMs` `RAG` `LangChain` `Ollama` `Hugging Face` `Embeddings`
+### 🔬 AI / ML
+`Scikit-learn` · `XGBoost` · `TensorFlow` · `PyTorch`
 
-**📈 Data Science**  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Excel`
+### 👁️ Vision
+`OpenCV` · `YOLO` · `Ultralytics` · `VGG16` · `ResNet50`
 
-**⚙️ Tools & Platforms**  
-`Git` `GitHub` `Docker` `AWS` `VS Code` `Colab` `Kaggle` `Postman` `Vercel` `Render`
+### ✨ GenAI
+`LLMs` · `RAG` · `LangChain` · `Ollama` · `Hugging Face`
 
-## 🛠️ Tech Stack
-
-**Languages:** Python · C++ · C · SQL
-
-**AI/ML:** Scikit-learn · XGBoost · TensorFlow · Keras · PyTorch
-
-**Computer Vision:** OpenCV · YOLO · Ultralytics · VGG16 · ResNet50
-
-**GenAI:** LLMs · RAG · LangChain · Ollama · Hugging Face
-
-**Data:** Pandas · NumPy · Matplotlib · Seaborn · Power BI · Excel
-
-**Development:** Git · GitHub · Docker · AWS · VS Code · Colab · Kaggle · Postman · Vercel · Render
-
+### 📊 Data
+`Pandas` · `NumPy` · `SQL` · `Matplotlib` · `Seaborn` · `Power BI`
 
 ## 🛠️ Tech Stack
+```
 
 | Category | Technologies |
 |---|---|
@@ -56,110 +49,6 @@ I enjoy building practical, data-driven solutions and exploring how AI can solve
 | **Data Science** | Pandas · NumPy · Matplotlib · Seaborn · Power BI · Excel |
 | **Tools & Platforms** | Git · GitHub · Docker · AWS · VS Code · Colab · Kaggle · Postman · Vercel · Render |
 
-## 🛠️ Tech Stack
-
-### Programming & Data
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-</p>
-
-### 🤖 Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Regression-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Classification-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clustering-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Feature%20Engineering-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Model%20Evaluation-C0392B?style=for-the-badge"/>
-</p>
-
-### 🧠 Deep Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CNN-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RNN-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LSTM-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Transformers-C0392B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Transfer%20Learning-F39C12?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-</p>
-
-### ✨ Generative AI
-
-<p>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embeddings-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vector%20Databases-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
-### 📊 Data Science & Analytics
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### 👁️ Computer Vision
-
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ultralytics-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VGG16-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ResNet50-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Image%20Classification-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object%20Detection-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Transfer%20Learning-C0392B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Image%20Processing-F39C12?style=for-the-badge"/>
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-### 📐 Mathematics & Statistics
-
-<p>
-  <img src="https://img.shields.io/badge/Descriptive%20Statistics-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Probability-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Statistical%20Inference-2E86C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hypothesis%20Testing-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Correlation%20%26%20Covariance-C0392B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Probability%20Distributions-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linear%20Algebra-F39C12?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Calculus-16A085?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Optimization-7D3C98?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Regression-FF6F00?style=for-the-badge"/>
-</p>
 
 ### 🧩 DSA & Competitive Programming
 
