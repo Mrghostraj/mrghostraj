@@ -6,23 +6,13 @@ I'm a **final-year B.Tech student in Metallurgical & Materials Engineering at NI
 
 I enjoy building practical, data-driven solutions and exploring how AI can solve real-world problems.
 
-- 🎓 B.Tech — NIT Jamshedpur
-- 🤖 Interested in AI/ML, Deep Learning & Computer Vision
-- 📊 Exploring Data Science, Analytics & Data Engineering
-- 🧠 Currently learning Generative AI, RAG & LLM applications
-- 🔬 Research experience in Android Malware Detection using Deep Learning
-- 💻 Building projects with Python, SQL, TensorFlow, PyTorch & Scikit-learn
-- 🚀 Open to opportunities in **AI/ML, Data Science, Computer Vision & Data Analytics**
-
----
-
 ## 🛠️ Tech Stack
 
 ### Programming & Data
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
